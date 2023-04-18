@@ -1,4 +1,13 @@
 ### Hi there 👋
+🔭 I’m currently working on something Awesome!
+
+🌱 I’m currently learning an entire new skill
+
+![download](https://user-images.githubusercontent.com/131059213/232641008-cb869a87-659c-49b1-9150-93a620398ef4.png)
+
+⚡ Fun fact: Im Canadian
+
+![download](https://user-images.githubusercontent.com/131059213/232641172-ed91a3b6-2ff1-4a34-9e2d-aea064132980.png)
 
 <!--
 **NELACK/Nelack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
